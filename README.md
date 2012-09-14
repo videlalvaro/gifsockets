@@ -87,3 +87,7 @@ And the server code was taken from here [https://github.com/weavejester/tcp-serv
 The awesome image that illustrates this page was given by the internet.
 
 Distributed under the Eclipse Public License, the same as Clojure.
+
+## CREDITS
+
+I've stole this idea from a chat a colleague showed me like three years ago. It wasn't open source back then and I was always wondering how to implement something like that. So kudos to that anonymous hacker.
