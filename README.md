@@ -69,6 +69,10 @@ Or what about progress bars for stuff that your server is doing in the backgroun
 
 Yes. You need _gifsockets_.
 
+## NOTE:
+
+If you need a good library for real time communications on the web then I would recommend using [sockjs](https://github.com/sockjs).
+
 ## License
 
 Copyright © 2012 Alvaro Videla
