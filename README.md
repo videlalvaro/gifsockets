@@ -10,7 +10,7 @@ The interesting part is that you can even use IE6 with this library and get the 
 
 Of course this should have been delivered as an April's Fools joke but sadly we are in mid September here in the northern hemisphere.
 
-<iframe src="http://player.vimeo.com/video/49447841" width="500" height="313" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+See it in action in this video: [https://vimeo.com/49447841](https://vimeo.com/49447841).
 
 ## How does it work
 
