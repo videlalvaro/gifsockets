@@ -23,7 +23,7 @@ And yes. It works in IE6.
 The usage now is a bit rudimentary and manual. Feel free to improve it and send a PR.
 
 ```bash
-$ git clone
+$ git clone git://github.com/videlalvaro/gifsockets.git
 $ cd gifsockets
 $ lein deps
 % lein repl
