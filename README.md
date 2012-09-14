@@ -4,7 +4,7 @@
 
 This library demoes how to achieve realtime text communication using GIF images as transport.
 
-!(Mind Blown)[https://raw.github.com/videlalvaro/gifsockets/master/doc/mybrain.gif]
+![Mind Blown](https://raw.github.com/videlalvaro/gifsockets/master/doc/mybrain.gif)
 
 The interesting part is that you can even use IE6 with this library and get the data in Real Time (TM).
 
