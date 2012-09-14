@@ -65,7 +65,7 @@ As you can see from the code this handles only one connection in what is called 
 
 All joking aside I think this is a very low tech way to have say, a website where you could tail logs for instance and you need to do it with a browser that have zero websockets support or something like that.
 
-Or what about progress bars for stuff that you servers doing in the background, say, while they resize an image?
+Or what about progress bars for stuff that your server is doing in the background, say, while it resizes an image?
 
 Yes. You need _gifsockets_.
 
