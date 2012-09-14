@@ -10,6 +10,8 @@ The interesting part is that you can even use IE6 with this library and get the 
 
 Of course this should have been delivered as an April's Fools joke but sadly we are in mid September here in the northern hemisphere.
 
+<iframe src="http://player.vimeo.com/video/49447841" width="500" height="313" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 ## How does it work
 
 The idea is pretty simple. We use Animated Gif images to stream data in real time to the browser. Since a gif image doesn't specify how many frames it has, once the browser opens it, it will keep waiting for new frames until you send the bits indicating that there's no more image to fetch.
