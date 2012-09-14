@@ -63,7 +63,7 @@ As you can see from the code this handles only one connection in what is called 
 
 ## Possible uses:
 
-All joking aside I think this is a very low tech way to have say, an website where you could tail logs for instance and you need to do it with browser that have zero websockets support or something like that.
+All joking aside I think this is a very low tech way to have say, a website where you could tail logs for instance and you need to do it with a browser that have zero websockets support or something like that.
 
 Or what about progress bars for stuff that you servers doing in the background, say, while they resize an image?
 
