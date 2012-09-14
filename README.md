@@ -4,6 +4,8 @@
 
 This library demoes how to achieve realtime text communication using GIF images as transport.
 
+!(Mind Blown)[https://raw.github.com/videlalvaro/gifsockets/master/doc/mybrain.gif]
+
 The interesting part is that you can even use IE6 with this library and get the data in Real Time (TM).
 
 Of course this should have been delivered as an April's Fools joke but sadly we are in mid September here in the northern hemisphere.
@@ -75,5 +77,7 @@ The following classes:
 Where taken from this website: [http://www.fmsware.com/stuff/gif.html](http://www.fmsware.com/stuff/gif.html).
 
 And the server code was taken from here [https://github.com/weavejester/tcp-server](https://github.com/weavejester/tcp-server)
+
+The awesome image that illustrates this page was given by the internet.
 
 Distributed under the Eclipse Public License, the same as Clojure.
