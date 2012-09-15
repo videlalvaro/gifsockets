@@ -84,7 +84,7 @@ The following classes:
 - LZWEncoder.java
 - NeuQuant.java
 
-Where taken from this website: [http://www.fmsware.com/stuff/gif.html](http://www.fmsware.com/stuff/gif.html).
+were taken from this website: [http://www.fmsware.com/stuff/gif.html](http://www.fmsware.com/stuff/gif.html).
 
 And the server code was taken from here [https://github.com/weavejester/tcp-server](https://github.com/weavejester/tcp-server)
 
