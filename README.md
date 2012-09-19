@@ -2,7 +2,7 @@
 
 "This library is the websockets of the '90s" - Somebody at Hacker News.
 
-This library demoes how to achieve realtime text communication using GIF images as transport.
+This library shows how to achieve realtime text communication using GIF images as transport.
 
 ![Mind Blown](https://raw.github.com/videlalvaro/gifsockets/master/doc/mybrain.gif)
 
@@ -84,7 +84,7 @@ The following classes:
 - LZWEncoder.java
 - NeuQuant.java
 
-were taken from this website: [http://www.fmsware.com/stuff/gif.html](http://www.fmsware.com/stuff/gif.html).
+Were taken from this website: [http://www.fmsware.com/stuff/gif.html](http://www.fmsware.com/stuff/gif.html).
 
 And the server code was taken from here [https://github.com/weavejester/tcp-server](https://github.com/weavejester/tcp-server)
 
